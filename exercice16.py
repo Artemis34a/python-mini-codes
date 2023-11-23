@@ -1,6 +1,6 @@
-def affice_dict(dict):
-    print(dict)
+def affice_dict(dictio1):
+    print(dictio1)
 
 
-dict = {"ariana" : 'no tears left to cry', 'beyonce' : 'rennaissance' }
-affice_dict(dict)
+dictio = {"ariana": 'no tears left to cry', 'beyonce': 'rennaissance'}
+affice_dict(dictio)
