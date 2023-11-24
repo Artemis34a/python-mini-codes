@@ -1,7 +1,1 @@
-liste = list(range(6))
-print(liste)
-
-for i in liste:
-    liste[i] = liste[i] + 3
-
-print(liste)
+print([t + 3 for t in list(range(6))])
